@@ -1,0 +1,3 @@
+﻿  OOPlaba3.cpp
+B:\proj\.visualka\OOPlaba3\OOPlaba3.cpp(111): warning C4715: Container<A *>::get: значение возвращается не при всех путях выполнения
+  OOPlaba3.vcxproj -> B:\proj\.visualka\OOPlaba3\x64\Debug\OOPlaba3.exe
