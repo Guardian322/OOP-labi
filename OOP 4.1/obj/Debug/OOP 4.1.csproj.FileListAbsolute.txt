@@ -1,0 +1,11 @@
+B:\proj\visualka\OOP 4.1\bin\Debug\OOP 4.1.exe.config
+B:\proj\visualka\OOP 4.1\bin\Debug\OOP 4.1.exe
+B:\proj\visualka\OOP 4.1\bin\Debug\OOP 4.1.pdb
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP 4.1.csproj.AssemblyReference.cache
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP 4.1.csproj.SuggestedBindingRedirects.cache
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP_4._1.Form1.resources
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP_4._1.Properties.Resources.resources
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP 4.1.csproj.GenerateResource.cache
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP 4.1.csproj.CoreCompileInputs.cache
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP 4.1.exe
+B:\proj\visualka\OOP 4.1\obj\Debug\OOP 4.1.pdb
